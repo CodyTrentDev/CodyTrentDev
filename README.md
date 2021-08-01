@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CodyTrentDev
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning ReactJS and NodeJS
+- 📫 You can reach me by my email (contact@codytrent.com)
